@@ -73,4 +73,3 @@ It makes the code cleaner, much easier to read, and easier to
 debug if something goes wrong. It also lets us reuse the operation
 blocks without rewriting the math formulas again.
 """
-
